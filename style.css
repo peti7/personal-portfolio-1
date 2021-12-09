@@ -341,8 +341,8 @@ footer {
         letter-spacing: 1px;
     }
     .menu li a:hover {
-        background: #EEEEEE;
-        color: gray;
+        background: none;
+        color: rgb(73, 70, 70);
     }
     .menu-bar {
         display: block;
