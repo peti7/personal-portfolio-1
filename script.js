@@ -9,4 +9,8 @@ menuIcon.addEventListener("click", () => {
          menu.style.top = `0px`;
          menuIcon.classList.add("show");
     }
-})
+});
+
+window.addEventListener("scroll", () => {
+    menu.style.top = `-100%`;
+});
