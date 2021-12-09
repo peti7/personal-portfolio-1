@@ -21,6 +21,7 @@ body {
 #hero {
     background: #66a8eb;
     height: 550px;
+    position:relative;
 }
 
 header {
@@ -28,6 +29,7 @@ header {
     margin: 0 auto;
     height: 100%;
     padding: 0px 10px;
+    position: relative;
 }
 
 nav {
